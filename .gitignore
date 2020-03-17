@@ -41,6 +41,7 @@ Generated\ Files/
 # NUNIT
 *.VisualState.xml
 TestResult.xml
+TestResults/
 
 # Build Results of an ATL Project
 [Dd]ebugPS/
@@ -330,3 +331,7 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+# Ignorar SonarQube
+.sonarqube/
+
