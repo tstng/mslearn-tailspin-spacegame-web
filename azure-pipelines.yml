@@ -1,11 +1,11 @@
 trigger:
-- '*'
-
+  - '*'
+  
 pool:
   vmImage: 'ubuntu-16.04'
   demands:
     - npm
-
+    
 variables:
   buildConfiguration: 'Release'
   wwwrootDir: 'Tailspin.SpaceGame.Web/wwwroot'
@@ -21,7 +21,7 @@ steps:
   displayName: 'Use .NET Core SDK 2.1.505 for SonarCloud'
   inputs:
     version: '2.1.505'
-
+    
 - task: Npm@1
   displayName: 'Run npm install'
   inputs:
@@ -61,7 +61,6 @@ steps:
       eq(variables['Build.Reason'], 'PullRequest'),
       eq(variables['System.PullRequest.TargetBranch'], 'master')
     )
-
 
 - task: DotNetCoreCLI@2
   displayName: 'Build the project - $(buildConfiguration)'
