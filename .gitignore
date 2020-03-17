@@ -333,3 +333,6 @@ ASALocalRun/
 
 # SonarQube
 .sonarqube/
+
+# Reporte de covertura
+CodeCoverage/
