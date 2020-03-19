@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>Tailspin.SpaceGame.Web.Tests</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Test</ProjectType>
+  <ProjectGuid>773ba444-0d67-4f37-8762-17e108ccd5f5</ProjectGuid>
+  <FullPath>C:\Users\Usuario.DESKTOP-4SRB24B\Documents\Proyectos\mslearn-tailspin-spacegame-web\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web.Tests\Tailspin.SpaceGame.Web.Tests.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\Usuario.DESKTOP-4SRB24B\Documents\Proyectos\mslearn-tailspin-spacegame-web\mslearn-tailspin-spacegame-web\.sonarqube\out\1\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePath">C:\Users\Usuario.DESKTOP-4SRB24B\Documents\Proyectos\mslearn-tailspin-spacegame-web\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web.Tests\bin\Release\netcoreapp3.1\Tailspin.SpaceGame.Web.Tests.dll.RoslynCA.json|C:\Users\Usuario.DESKTOP-4SRB24B\Documents\Proyectos\mslearn-tailspin-spacegame-web\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web.Tests\bin\Release\netcoreapp3.1\Tailspin.SpaceGame.Web.Tests.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPath">C:\Users\Usuario.DESKTOP-4SRB24B\Documents\Proyectos\mslearn-tailspin-spacegame-web\mslearn-tailspin-spacegame-web\.sonarqube\out\1</Property>
+  </AnalysisSettings>
+  <Configuration>Release</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>netcoreapp3.1</TargetFramework>
+</ProjectInfo>

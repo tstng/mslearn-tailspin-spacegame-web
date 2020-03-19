@@ -1,0 +1,42 @@
+
+_TailSpin.SpaceGame.Web.LocalDocumentDBRepository<T>.LocalDocumentDBRepository(System.IO.Stream)±
+¦C:\Users\Usuario.DESKTOP-4SRB24B\Documents\Proyectos\mslearn-tailspin-spacegame-web\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\LocalDocumentDBRepository.cs (("0*î
+0íê
+±
+¦C:\Users\Usuario.DESKTOP-4SRB24B\Documents\Proyectos\mslearn-tailspin-spacegame-web\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\LocalDocumentDBRepository.cs< (T
+%0System.IO.StreamReader"System.IO.StreamReader¸
+µ
+±
+¦C:\Users\Usuario.DESKTOP-4SRB24B\Documents\Proyectos\mslearn-tailspin-spacegame-web\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\LocalDocumentDBRepository.cs@ (L
+
+%1void"5System.IO.StreamReader.StreamReader(System.IO.Stream)*
+
+%0System.IO.StreamReader*
+
+streamSystem.IO.Stream–“
+±
+¦C:\Users\Usuario.DESKTOP-4SRB24B\Documents\Proyectos\mslearn-tailspin-spacegame-web\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\LocalDocumentDBRepository.cs< (`
+%2string""System.IO.StreamReader.ReadToEnd()*
+
+%0System.IO.StreamReader2ReadToEnd()Ì
+É
+±
+¦C:\Users\Usuario.DESKTOP-4SRB24B\Documents\Proyectos\mslearn-tailspin-spacegame-web\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\LocalDocumentDBRepository.cs (a(
+%3"System.Collections.Generic.List<T>"8Newtonsoft.Json.JsonConvert.DeserializeObject<T>(string)*"
+Newtonsoft.Json.JsonConvert*
+
+%2stringÐ
+Í
+±
+¦C:\Users\Usuario.DESKTOP-4SRB24B\Documents\Proyectos\mslearn-tailspin-spacegame-web\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\LocalDocumentDBRepository.cs (ae5
+3TailSpin.SpaceGame.Web.LocalDocumentDBRepository<T>",
+_items"System.Collections.Generic.List<T>"__id**
+(
+%3"System.Collections.Generic.List<T>*
+1*Ï
+1"É
+±
+¦C:\Users\Usuario.DESKTOP-4SRB24B\Documents\Proyectos\mslearn-tailspin-spacegame-web\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\LocalDocumentDBRepository.cs (	
+implicit return:
+streamSystem.IO.StreamB75
+3TailSpin.SpaceGame.Web.LocalDocumentDBRepository<T>

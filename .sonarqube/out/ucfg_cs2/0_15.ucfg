@@ -1,0 +1,88 @@
+
+9TailSpin.SpaceGame.Web.Controllers.HomeController.Error()´
+§C:\Users\Usuario.DESKTOP-4SRB24B\Documents\Proyectos\mslearn-tailspin-spacegame-web\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.cs† †(""6*’
+0œ™
+´
+§C:\Users\Usuario.DESKTOP-4SRB24B\Documents\Proyectos\mslearn-tailspin-spacegame-web\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csˆ ˆ(n2
+%0,TailSpin.SpaceGame.Web.Models.ErrorViewModel",TailSpin.SpaceGame.Web.Models.ErrorViewModel»
+¸
+´
+§C:\Users\Usuario.DESKTOP-4SRB24B\Documents\Proyectos\mslearn-tailspin-spacegame-web\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csˆ ˆ(*
+
+%1void"=TailSpin.SpaceGame.Web.Models.ErrorViewModel.ErrorViewModel()*4
+2
+%0,TailSpin.SpaceGame.Web.Models.ErrorViewModel§
+¤
+´
+§C:\Users\Usuario.DESKTOP-4SRB24B\Documents\Proyectos\mslearn-tailspin-spacegame-web\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csˆ9 ˆ(I!
+%2System.Diagnostics.Activity"'System.Diagnostics.Activity.Current.get*"
+System.Diagnostics.Activity*
+1
+2*œ
+2‘
+Ž
+´
+§C:\Users\Usuario.DESKTOP-4SRB24B\Documents\Proyectos\mslearn-tailspin-spacegame-web\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csˆK ˆ(M
+%3string""System.Diagnostics.Activity.Id.get*#
+!
+%2System.Diagnostics.Activity*
+1*
+1*
+3
+4*Ï
+3Í
+Ê
+´
+§C:\Users\Usuario.DESKTOP-4SRB24B\Documents\Proyectos\mslearn-tailspin-spacegame-web\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csˆQ ˆ(\+
+%7%Microsoft.AspNetCore.Http.HttpContext"7Microsoft.AspNetCore.Mvc.ControllerBase.HttpContext.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase²
+¯
+´
+§C:\Users\Usuario.DESKTOP-4SRB24B\Documents\Proyectos\mslearn-tailspin-spacegame-web\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csˆQ ˆ(l
+%8string"9Microsoft.AspNetCore.Http.HttpContext.TraceIdentifier.get*-
++
+%7%Microsoft.AspNetCore.Http.HttpContextÞ
+Û
+´
+§C:\Users\Usuario.DESKTOP-4SRB24B\Documents\Proyectos\mslearn-tailspin-spacegame-web\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csˆQ ˆ(l
+%6string"__id*
+
+%8stringÞ
+Û
+´
+§C:\Users\Usuario.DESKTOP-4SRB24B\Documents\Proyectos\mslearn-tailspin-spacegame-web\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csˆQ ˆ(l
+%4string"__id*
+
+%6string*
+4*¾
+4È
+Å
+´
+§C:\Users\Usuario.DESKTOP-4SRB24B\Documents\Proyectos\mslearn-tailspin-spacegame-web\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csˆ- ˆ(l
+
+%9void":TailSpin.SpaceGame.Web.Models.ErrorViewModel.RequestId.set*4
+2
+%0,TailSpin.SpaceGame.Web.Models.ErrorViewModel*
+
+%4string…‚
+´
+§C:\Users\Usuario.DESKTOP-4SRB24B\Documents\Proyectos\mslearn-tailspin-spacegame-web\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csˆ ˆ(o*
+%10#Microsoft.AspNetCore.Mvc.ViewResult"0Microsoft.AspNetCore.Mvc.Controller.View(object)*'%
+#Microsoft.AspNetCore.Mvc.Controller*4
+2
+%0,TailSpin.SpaceGame.Web.Models.ErrorViewModel2View(object)"å
+´
+§C:\Users\Usuario.DESKTOP-4SRB24B\Documents\Proyectos\mslearn-tailspin-spacegame-web\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.csˆ ˆ(p,
+*
+%10#Microsoft.AspNetCore.Mvc.ViewResult*Ò
+5"Ì
+´
+§C:\Users\Usuario.DESKTOP-4SRB24B\Documents\Proyectos\mslearn-tailspin-spacegame-web\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.cs‰ ‰(	
+implicit return*Ú
+6Ï
+Ì
+´
+§C:\Users\Usuario.DESKTOP-4SRB24B\Documents\Proyectos\mslearn-tailspin-spacegame-web\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Controllers\HomeController.cs† †("
+%11"__entrypoint*
+0B53
+1TailSpin.SpaceGame.Web.Controllers.HomeController

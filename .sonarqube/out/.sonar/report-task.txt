@@ -1,0 +1,7 @@
+organization=tstng-devops
+projectKey=tstng_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.5955
+dashboardUrl=https://sonarcloud.io/dashboard?id=tstng_mslearn-tailspin-spacegame-web
+ceTaskId=AXDphp0xslwABiJB8gyS
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXDphp0xslwABiJB8gyS

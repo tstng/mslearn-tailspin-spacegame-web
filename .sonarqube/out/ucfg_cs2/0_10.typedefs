@@ -1,0 +1,11 @@
+ª
+#TailSpin.SpaceGame.Web.Models.Score#TailSpin.SpaceGame.Web.Models.Modelobject6
+Score()+TailSpin.SpaceGame.Web.Models.Score.Score()B
+ProfileId.get1TailSpin.SpaceGame.Web.Models.Score.ProfileId.getB
+ProfileId.set1TailSpin.SpaceGame.Web.Models.Score.ProfileId.setB
+HighScore.get1TailSpin.SpaceGame.Web.Models.Score.HighScore.getB
+HighScore.set1TailSpin.SpaceGame.Web.Models.Score.HighScore.set@
+GameMode.get0TailSpin.SpaceGame.Web.Models.Score.GameMode.get@
+GameMode.set0TailSpin.SpaceGame.Web.Models.Score.GameMode.setD
+GameRegion.get2TailSpin.SpaceGame.Web.Models.Score.GameRegion.getD
+GameRegion.set2TailSpin.SpaceGame.Web.Models.Score.GameRegion.set
