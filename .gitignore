@@ -333,3 +333,6 @@ ASALocalRun/
 
 # Ignorar .sonarqube
 .sonarqube/
+
+# TestResults
+**/TestResults/
